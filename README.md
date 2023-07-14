@@ -1,6 +1,6 @@
 # Operating System CPU Scheduling Algorithms
 
-This repository implements various CPU scheduling algorithms commonly used in operating systems. The `main.py` file includes the implementation of the following algorithms along with their Gantt chart visualization. Also, it calculates the waiting time (WT), turnaround time (TAT), and average waiting time (AWT) for each algorithm.
+This repository implements various CPU scheduling algorithms commonly used in operating systems. The `main.py` file includes the implementation of the following algorithms along with their Gantt chart visualization. Also, it calculates the waiting time (WT), turnaround time (TAT), and average waiting (AWT) and turnaround time (ATAT) for each algorithm.
 
 - Banker's Algorithm
 - Shortest Job First (SJF) (Preemptive & Non-Preemptive)
