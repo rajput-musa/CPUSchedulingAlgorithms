@@ -2,16 +2,6 @@ from prettytable import PrettyTable
 
 table = PrettyTable()
 
-table.field_names = ["Group Members"]
-
-table.add_row(["Moosa Qaisar | 21-CP-67"])
-table.add_row(["Aazib Majeed | 21-CP-01"])
-table.add_row(["Atrooba Fakhar | 21-CP-59"])
-table.add_row(["Tayyaba Zafar | 21-CP-77"])
-
-table.align["Group Members"] = "c"
-
-print(table)
 
 table = PrettyTable()
 
